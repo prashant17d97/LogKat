@@ -54,7 +54,7 @@ mavenPublishing {
     coordinates(
         groupId = "io.github.prashant17d97",
         artifactId = "logkat",
-        version = "1.0.0 "
+        version = "1.0.0"
     )
     publishToMavenCentral(SonatypeHost.CENTRAL_PORTAL)
 

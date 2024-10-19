@@ -75,7 +75,7 @@ mavenPublishing {
         developers {
             developer {
                 id = "prashant17d97"
-                name = "Prashant Singh "
+                name = "Prashant Singh"
                 url = "https://github.com/prashant17d97"
                 email = "prashantsinghsca@gmail.com"
             }

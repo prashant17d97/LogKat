@@ -67,8 +67,9 @@ mavenPublishing {
         url = "https://github.com/prashant17d97/LogKat/"
         licenses {
             license {
-                name = "MIT"
-                url = "https://opensource.org/license/MIT"
+                name = "The Apache License, Version 2.0"
+                url = "https://www.apache.org/licenses/LICENSE-2.0.txt"
+                distribution = "https://www.apache.org/licenses/LICENSE-2.0.txt"
             }
         }
         developers {
@@ -81,6 +82,8 @@ mavenPublishing {
         }
         scm {
             url = "https://github.com/prashant17d97/LogKat/"
+            connection = "scm:git:git://github.com/prashant17d97/LogKat.git"
+            developerConnection = "scm:git:ssh://git@github.com/prashant17d97/LogKat.git"
         }
     }
 }
